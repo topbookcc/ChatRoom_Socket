@@ -10,14 +10,14 @@
 
 #### 登录、注册
 
-![image-20201220204518548](images/login.png)
+![contents](images/login.png)
 
 #### 聊天
 
-![image-20201220204518548](images/sendfile.png)
+![contents](images/sendfile.png)
 
 
 
 ### 文件传输
 
-![image-20201220204621135](images/sendfile.png)
+![contents](images/sendfile.png)
