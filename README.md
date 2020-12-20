@@ -10,14 +10,14 @@
 
 #### 登录、注册
 
-![contents](https://github.com/topbookcc/ChatRoom_Socket/tree/master/images/login.png)
+![avatar](images/login.png)
 
 #### 聊天
 
-![contents](https://github.com/topbookcc/ChatRoom_Socket/tree/master/images/sendfile.png)
+![avatar](images/sendfile.png)
 
 
 
 ### 文件传输
 
-![contents](https://github.com/topbookcc/ChatRoom_Socket/tree/master/images/sendfile.png)
+![avatar](images/sendfile.png)
